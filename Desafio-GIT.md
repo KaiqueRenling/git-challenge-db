@@ -1,3 +1,4 @@
+//Esse documento contém as etapas e objetivos do desafio da trilha de git 
 # Git Challenge: Fluxo Colaborativo e Resolução de Conflitos
 
 ## Objetivo
