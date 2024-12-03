@@ -1,3 +1,4 @@
+//Esse arquivo tem como objetivo descrever as etapas e objetivos do projeto
 Este repositório faz parte de um desafio prático de Git, com o objetivo de aplicar conceitos como criação de branches, commits, resolução de conflitos e integração de mudanças via Pull Request. A proposta do desafio é colocar em prática o trabalho colaborativo usando Git em um cenário de desenvolvimento de software.
 
 ## Objetivo
