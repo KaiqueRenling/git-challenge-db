@@ -1,10 +1,10 @@
-Era uma vez um arquivo com conflitos
-E então meu PR quebrou
-
-    Sim! Isso vai acontecer com alguma certa frequência. Comandos novos para gravar não são da noite para o dia. Por isso a arte de praticar, pratique muito até se tornar faceis.
-
-E como dito no desafio
-
-Esse arquivo contém conflitos. Primeiro, ajuste o que está conflitando.
-
-alt text
+# Comandos Git
+- `git init`: Inicializa um repositório local.
+- `git clone <url>`: Clona um repositório remoto.
+- `git add <arquivo>`: Adiciona arquivos ao staging.
+- `git commit -m "<mensagem>"`: Salva mudanças locais com uma mensagem.
+- `git push`: Envia mudanças para o repositório remoto.
+- `git pull`: Baixa atualizações do repositório remoto.
+- `git checkout -b <branch>`: Cria e troca para uma nova branch.
+- `git merge <branch>`: Mescla uma branch à branch atual.
+- `git status`: Mostra o status do repositório.
